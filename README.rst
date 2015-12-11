@@ -20,7 +20,7 @@ Create a `.toggle` file in your home directory with the following content:
 
     [API]
 
-    key = <your api key> # Can be obtained at: FIXME
+    key = <your api key> # Can be obtained at: https://www.toggl.com/app/profile
 
     workspace = 566021 # Your deault workspace
 
