@@ -26,7 +26,7 @@ Create a `.toggle` file in your home directory with the following content:
 
     [LOCATION]
 
-    timezone = europe/amsterdam
+    timezone = CET 
 
     [PROJECTS]
 
