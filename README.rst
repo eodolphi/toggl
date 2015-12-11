@@ -34,10 +34,12 @@ Create a `.toggle` file in your home directory with the following content:
 
     [SCHEDULE]
 
-    monday = 8:30-12:30,13:00-17:30
+    monday = 8:30-12:30,13:00-17:00
 
-    tuesday = 8:30-12:30,13:00-17:30
+    tuesday = 8:30-12:30,13:00-17:00
 
-    wednesday = 8:30-12:30,13:00-17:30
+    wednesday = 8:30-12:30,13:00-17:00
 
-    friday = 8:30-12:30,13:00-17:30
+    thursday = 8:30-12:30,13:00-17:00
+
+    friday = 8:30-12:30,13:00-17:00
