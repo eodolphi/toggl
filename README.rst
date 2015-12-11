@@ -21,6 +21,7 @@ Create a `.toggle` file in your home directory with the following content:
     [API]
 
     key = <your api key> # Can be obtained at: FIXME
+
     workspace = 566021 # Your deault workspace
 
     [LOCATION]
@@ -34,6 +35,9 @@ Create a `.toggle` file in your home directory with the following content:
     [SCHEDULE]
 
     monday = 8:30-12:30,13:00-17:30
+
     tuesday = 8:30-12:30,13:00-17:30
+
     wednesday = 8:30-12:30,13:00-17:30
+
     friday = 8:30-12:30,13:00-17:30
