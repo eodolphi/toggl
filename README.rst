@@ -16,7 +16,7 @@ Installation
 Configuration
 -------------
 
-Create a `.toggle` file in your home directory with the following content:
+Create a `.toggl` file in your home directory with the following content:
 
     [API]
 
